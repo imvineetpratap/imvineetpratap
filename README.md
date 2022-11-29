@@ -18,35 +18,35 @@
 
 <br>
 
-<h2> Skills <img src = "https://github.com/imvineetpratap/ReadmeGenerator/blob/main/Icons/200w_s.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://github.com/imvineetpratap/Readmeicons/blob/main/Readmeicons/Icons/200w_s.gif" width = 32px> </h2>
 <div align="center">
-<img width ='40px' src ='https://github.com/imvineetpratap/ReadmeGenerator/blob/main/Icons/java.png'>
+<img width ='40px' src ='https://github.com/imvineetpratap/Readmeicons/blob/main/Readmeicons/Icons/java.png'>
 &nbsp &nbsp 
-<img width ='40px' src ='https://github.com/imvineetpratap/ReadmeGenerator/blob/main/Icons/icons8-python-480.png'>
+<img width ='40px' src ='https://github.com/imvineetpratap/Readmeicons/blob/main/Readmeicons/Icons/icons8-python-480.png'>
 &nbsp &nbsp
-<img width ='40px' src ='https://github.com/imvineetpratap/ReadmeGenerator/blob/main/Icons/javascript.png'> 
+<img width ='40px' src ='https://github.com/imvineetpratap/Readmeicons/blob/main/Readmeicons/Icons/javascript.png'> 
 &nbsp &nbsp
- <img width ='40px' src ='https://github.com/imvineetpratap/ReadmeGenerator/blob/main/Icons/react.png'>
+ <img width ='40px' src ='https://github.com/imvineetpratap/Readmeicons/blob/main/Readmeicons/Icons/react.png'>
 &nbsp &nbsp
- <img width ='40px' src ='https://github.com/imvineetpratap/ReadmeGenerator/blob/main/Icons/icons8-css3-480.png'>
+ <img width ='40px' src ='https://github.com/imvineetpratap/Readmeicons/blob/main/Readmeicons/Icons/icons8-css3-480.png'>
 &nbsp &nbsp
-<img width ='40px' src ='https://github.com/imvineetpratap/ReadmeGenerator/blob/main/Icons/html.png'>
+<img width ='40px' src ='https://github.com/imvineetpratap/Readmeicons/blob/main/Readmeicons/Icons/html.png'>
 &nbsp &nbsp
-<img width ='40px' src ='https://github.com/imvineetpratap/ReadmeGenerator/blob/main/Icons/icons8-android-os-240.png'>
+<img width ='40px' src ='https://github.com/imvineetpratap/Readmeicons/blob/main/Readmeicons/Icons/icons8-android-os-240.png'>
 &nbsp &nbsp 
-<img width ='40px' src ='https://github.com/imvineetpratap/ReadmeGenerator/blob/main/Icons/icons8-bootstrap-480.png'>
+<img width ='40px' src ='https://github.com/imvineetpratap/Readmeicons/blob/main/Readmeicons/Icons/icons8-bootstrap-480.png'>
 &nbsp &nbsp 
-<img width ='40px' src ='https://github.com/imvineetpratap/ReadmeGenerator/blob/main/Icons/icons8-angularjs-480.png'>
+<img width ='40px' src ='https://github.com/imvineetpratap/Readmeicons/blob/main/Readmeicons/Icons/icons8-angularjs-480.png'>
 
 </div>
 
-<h2> Connect with me <img src='https://github.com/imvineetpratap/ReadmeGenerator/blob/main/Icons/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://github.com/imvineetpratap/Readmeicons/blob/main/Readmeicons/Icons/handshake.gif' width="100px"> </h2>
 <br>
 
 <div align="center">
-<a href=""> <img width ='40px' src ='https://github.com/imvineetpratap/ReadmeGenerator/blob/main/Icons/icons8-gmail-480.png'></a>
+<a href=""> <img width ='40px' src ='https://github.com/imvineetpratap/Readmeicons/blob/main/Readmeicons/Icons/icons8-gmail-480.png'></a>
 &nbsp &nbsp 
-<a href=""> <img width ='40px' src ='https://github.com/imvineetpratap/ReadmeGenerator/blob/main/Icons/icons8-linkedin-480.png'></a>
+<a href=""> <img width ='40px' src ='https://github.com/imvineetpratap/Readmeicons/blob/main/Readmeicons/Icons/icons8-linkedin-480.png'></a>
 
 </div>
 
