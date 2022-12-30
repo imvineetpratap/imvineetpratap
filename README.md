@@ -6,7 +6,7 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=imvineetpratap)
 [![Github](https://img.shields.io/github/followers/imvineetpratap?label=Follow&style=social)](https://github.com/imvineetpratap)
 
-<p><img height="400px" width="400px" align="right" src="https://github.com/imvineetpratap/ReadmeGenerator/blob/main/Icons/computer.gif" alt="adam-pw" /></p>
+<p><img height="400px" width="400px" align="right" src="https://github.com/imvineetpratap/Readmeicons/blob/main/Readmeicons/Icons/computer.gif" alt="adam-pw" /></p>
 
 ## :sassy_man:  About me <img src = "https://github.com/imvineetpratap/Readmeicons/blob/main/Readmeicons/Icons/giphy.webp" width = 150px> 
 - 🔭 I’m currently working on Java Full Stack Developer .
